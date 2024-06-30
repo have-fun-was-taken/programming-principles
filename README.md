@@ -121,8 +121,7 @@ How
 - Identify the single, definitive source of every piece of knowledge used in
   your system, and then use that source to generate applicable instances of that
   knowledge (code, documentation, tests, etc).
-- Apply the
-  [Rule of three](<https://en.wikipedia.org/wiki/Rule_of_three_(computer_programming)>).
+- Apply the [Rule of three](<https://en.wikipedia.org/wiki/Rule_of_three_(computer_programming)>).
 
 Resources
 
